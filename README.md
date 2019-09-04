@@ -1,3 +1,3 @@
 ## Landmarks
 
-SwiftUI Previews require mocOS 10.15 or later
+SwiftUI Previews require macOS 10.15 or later
